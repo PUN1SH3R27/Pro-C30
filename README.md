@@ -1,1 +1,2 @@
-# Pro-C30
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
